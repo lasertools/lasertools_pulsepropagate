@@ -1,2 +1,2 @@
 # pulsepropagate
-A module to handle simple pulse propagation with dispersion and nlo
+A module to handle simple laser pulse propagation with dispersion and nlo
