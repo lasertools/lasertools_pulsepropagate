@@ -1,3 +1,3 @@
 """Initialization"""
 
-from pulsepropagatedev.propagate import *
+from lasertools_pulsepropagate.propagate import *
